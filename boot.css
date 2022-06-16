@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.glass{
+    border-image-width: 100%;
+    image-resolution: fixed;
+    
+};
